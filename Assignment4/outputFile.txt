@@ -1,0 +1,6 @@
+cat
+dog
+bear
+elephant
+tiger
+horse
